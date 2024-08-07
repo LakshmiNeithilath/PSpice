@@ -14,6 +14,11 @@ A **ring oscillator** is a circuit made of an odd number of inverters connected 
 - **Time Step**: 1p (1 picosecond)
 - **Output Node**: `Q`
 
+The Circuit would look something like this :
+![image](https://github.com/user-attachments/assets/d5d5a481-7936-4256-b866-3af59c1cbee2)
+
+
+
  Ideally the output would look something like :
 ![image](https://github.com/user-attachments/assets/8d5469b1-56bd-4e45-94ee-eab0039f65a7)
 
