@@ -25,7 +25,7 @@ The Circuit would look something like this :
 
 ## Quick Start
 
-1. **Clone the Repo**: `git clone https://github.com/LakshmiNeithilath/ring-oscillator-with-PSpice.git`
+1. **Clone the Repo**: `git clone https://github.com/LakshmiNeithilath/ring-oscillator-with-PSpice.git` or just download the .asc file in the repo and go ahead
 2. **Open LTSpice**: Load `Ring_Oscillator.asc`.
 3. **Run Simulation**: Use the settings above.
 4. **Check Output**: Observe the waveform at node `Q`.
