@@ -14,7 +14,15 @@ A **ring oscillator** is a circuit made of an odd number of inverters connected 
 - **Time Step**: 1p (1 picosecond)
 - **Output Node**: `Q`
 
-### Files
+ Ideally the output would look something like :
+![image](https://github.com/user-attachments/assets/8d5469b1-56bd-4e45-94ee-eab0039f65a7)
 
-- **Schematic**: [Ring_Oscillator.asc](./Ring_Oscillator.asc)
-- **Simulation File**: [Ring_Oscillator.sim](./Ring_Oscillator.sim)
+
+## Quick Start
+
+1. **Clone the Repo**: `git clone https://github.com/LakshmiNeithilath/ring-oscillator-with-PSpice.git`
+2. **Open LTSpice**: Load `Ring_Oscillator.asc`.
+3. **Run Simulation**: Use the settings above.
+4. **Check Output**: Observe the waveform at node `Q`.
+
+Happy simulating! 🚀
